@@ -271,3 +271,7 @@ Error:
 [09:39:50 | 05-05-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x635e9c9d201900f7a0af6f3cf22bfe4526bf8bec117fd8a7146e2e1d1c1ef132
 [09:42:53 | 05-05-2025] Transfer Task failed for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3: Request failed with status code 400
 [09:42:56 | 05-05-2025] Bridge Task successful for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
+Error:
+[09:28:13 | 06-05-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x3767cce379e1aafaa307b755b9e7a28f125fbe971b95402ed078258a90179ec9
+[09:31:16 | 06-05-2025] Transfer Task failed for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3: Request failed with status code 400
+[09:31:19 | 06-05-2025] Bridge Task failed for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3: Request failed with status code 400
